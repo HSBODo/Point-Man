@@ -52,13 +52,13 @@ public interface ReserveService {
 	
 	/**
 	 * 회원 가입
-	 * @author 김선민
+	 * @author 한수빈
 	 */
 	public void input();
 	
 	/**
 	 * 관리자모드 회원 조회
-	 *  @author 김선민
+	 *  @author 한수빈
 	 */
 	public void list();
 	
@@ -71,7 +71,7 @@ public interface ReserveService {
 	
 	/**
 	 * 아이디, 비밀번호로 회원 존재 여부 확인
-	 * @author 김선민
+	 * @author 한수빈
 	 * @param id
 	 * @param pw
 	 * @return
@@ -80,7 +80,7 @@ public interface ReserveService {
 	
 	/**
 	 * 로그인
-	 * @author 김선민
+	 * @author 한수빈
 	 */
 	public void login();
 	
