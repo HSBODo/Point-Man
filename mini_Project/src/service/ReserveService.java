@@ -8,6 +8,9 @@ import vo.Theater;
 import vo.User;
 
 public interface ReserveService {
+	
+	
+	
 	/**
 	 * 영화 조회
 	 */
