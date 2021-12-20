@@ -110,6 +110,7 @@ public interface ReserveService {
 	 * @return
 	 */
 	public List<Reservation> findReservationsByUserId(String userId);
+	 
 	
 	/**
 	 * 상영관 번호로 상영관 조회 
