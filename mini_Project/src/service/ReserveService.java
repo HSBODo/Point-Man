@@ -55,7 +55,7 @@ public interface ReserveService {
 	
 	/**
 	 * 회원 가입
-	 * @author 한수빈
+	 * @author 김선민
 	 */
 	public void input();
 	
